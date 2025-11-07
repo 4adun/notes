@@ -41,4 +41,8 @@ Additional daily modes:
 ### **Shogi Basic Tesuji Collection — “Remember Through Next Move Problems” (Free · JP)**
 https://book.mynavi.jp/files/user/shogi_news/free/9784839960070/index.html?page=1
 
+Find more resources in Shogi Harbour's #shogi-resources channel
+https://discord.com/channels/653255438904590372/677871805565763614
+
+
 
